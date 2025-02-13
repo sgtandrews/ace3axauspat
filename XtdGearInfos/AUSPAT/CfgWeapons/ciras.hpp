@@ -1,0 +1,7 @@
+#include "ciras/grenadier.hpp"
+#include "ciras/gunner.hpp"
+#include "ciras/marksman.hpp"
+#include "ciras/medic.hpp"
+#include "ciras/rifleman.hpp"
+#include "ciras/teamlead.hpp"
+#include "ciras/light.hpp"

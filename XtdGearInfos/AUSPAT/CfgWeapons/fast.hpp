@@ -1,0 +1,6 @@
+#include "fast/type1.hpp"
+#include "fast/type2.hpp"
+#include "fast/type3.hpp"
+#include "fast/type4.hpp"
+#include "fast/type5.hpp"
+#include "fast/type6.hpp"

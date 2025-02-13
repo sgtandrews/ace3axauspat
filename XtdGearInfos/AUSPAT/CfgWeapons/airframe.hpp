@@ -1,0 +1,6 @@
+#include "airframe/type1.hpp"
+#include "airframe/type2.hpp"
+#include "airframe/type3.hpp"
+#include "airframe/type4.hpp"
+#include "airframe/type5.hpp"
+#include "airframe/type6.hpp"

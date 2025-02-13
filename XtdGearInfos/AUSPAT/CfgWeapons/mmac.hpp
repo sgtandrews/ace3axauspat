@@ -1,0 +1,7 @@
+#include "mmac/grenadier.hpp"
+#include "mmac/gunner.hpp"
+#include "mmac/marksman.hpp"
+#include "mmac/medic.hpp"
+#include "mmac/rifleman.hpp"
+#include "mmac/teamlead.hpp"
+#include "mmac/light.hpp"

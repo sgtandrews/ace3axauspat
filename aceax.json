@@ -1,0 +1,1302 @@
+{
+  "Models": [
+    {
+      "P3dModel": "A3\\characters_F\\BLUFOR\\b_soldier_01.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_G3L",
+      "FirstConfigClassName": "AUSPAT_G3L_AMCU_AMCU_Camo",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": 0,
+          "OptionName": "camo",
+          "OptionValue": "",
+          "Priority": 0,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_AMCU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_AMCU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_AMCU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_AMCU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_AMCU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_AMCU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_AMCU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPCU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPCU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPCU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPCU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPCU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPCU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPCU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPDU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPDU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPDU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPDU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPDU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPDU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPDU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPNU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPNU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPNU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPNU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPNU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPNU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_DPNU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRN_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRN_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRN_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRN_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRN_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRN_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRN_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRY_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRY_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRY_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRY_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRY_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRY_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_GRY_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_TAN_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_TAN_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_TAN_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_TAN_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_TAN_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_TAN_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3L_TAN_TAN_Camo"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "A3\\characters_F\\BLUFOR\\b_soldier_03.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_G3R",
+      "FirstConfigClassName": "AUSPAT_G3R_AMCU_AMCU_Camo",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_AMCU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_AMCU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_AMCU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_AMCU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_AMCU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_AMCU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_AMCU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPCU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPCU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPCU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPCU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPCU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPCU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPCU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPDU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPDU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPDU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPDU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPDU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPDU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPDU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPNU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPNU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPNU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPNU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPNU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPNU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_DPNU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRN_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRN_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRN_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRN_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRN_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRN_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRN_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRY_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRY_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRY_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRY_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRY_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRY_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_GRY_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_TAN_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_TAN_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_TAN_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_TAN_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_TAN_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_TAN_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3R_TAN_TAN_Camo"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "a3\\Characters_F_Enoch\\Uniforms\\Gorka_01_F.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_ECWCS",
+      "FirstConfigClassName": "AUSPAT_ECWCS_AMCU_AMCU_Camo",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo_1": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_AMCU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_AMCU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_AMCU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_AMCU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_AMCU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_AMCU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_AMCU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_AMCU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_AMCU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_AMCU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_AMCU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_AMCU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_AMCU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_AMCU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPCU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPCU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPCU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPCU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPCU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPCU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPCU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPCU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPCU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPCU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPCU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPCU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPCU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPCU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPDU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPDU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPDU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPDU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPDU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPDU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPDU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPDU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPDU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPDU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPDU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPDU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPDU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPDU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPNU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPNU_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPNU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPNU_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPNU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPNU_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPNU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPNU_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPNU_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPNU_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPNU_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPNU_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_DPNU_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_DPNU_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRN_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRN_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRN_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRN_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRN_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRN_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRN_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRN_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRN_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRN_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRN_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRN_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRN_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRN_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRY_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRY_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRY_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRY_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRY_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRY_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRY_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRY_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRY_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRY_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRY_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRY_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_GRY_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_GRY_TAN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_TAN_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_TAN_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_TAN_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_TAN_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_TAN_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_TAN_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_TAN_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_TAN_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_TAN_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_TAN_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_TAN_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_TAN_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\ECWCS_TAN_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_ECWCS_TAN_TAN_Camo"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "A3\\characters_F\\BLUFOR\\b_soldier_02.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_G3T",
+      "FirstConfigClassName": "AUSPAT_G3T_Black_AMCU_Camo",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_AMCU_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Black_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPCU_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Black_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPDU_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Black_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_DPNU_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Black_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRN_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Black_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_GRY_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Black_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\G3_TAN_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Black_TAN_Camo"
+            }
+          ]
+        },
+        "camo2": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\Undershirt_Black.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Black_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\Undershirt_Grey.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Grey_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\Undershirt_Khaki.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Khaki_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\Undershirt_Navy.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Navy_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\Undershirt_Olive.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_G3T_Olive_AMCU_Camo"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "a3\\Characters_F_Enoch\\Uniforms\\CBRN_Suit_01_F.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_CBRN",
+      "FirstConfigClassName": "AUSPAT_CBRN_GRN_Camo",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\CBRN_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_CBRN_AMCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\CBRN_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_CBRN_DPCU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\CBRN_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_CBRN_DPDU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\CBRN_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_CBRN_DPNU_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\CBRN_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_CBRN_GRN_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\CBRN_GRY.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_CBRN_GRY_Camo"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Uniforms\\CBRN_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_CBRN_TAN_Camo"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "A3\\Characters_F\\common\\capb.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_Cap",
+      "FirstConfigClassName": "AUSPAT_Cap_BLK",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_AMCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_BLK.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_BLK"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_BRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_BRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_DPCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_DPDU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_DPNU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_GRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_TAN"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "A3\\Characters_F_EPB\\common\\capb_hs.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_Cap_LPH",
+      "FirstConfigClassName": "AUSPAT_Cap_LPH_BLK",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_LPH_AMCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_BLK.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_LPH_BLK"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_BRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_LPH_BRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_LPH_DPCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_LPH_DPDU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_LPH_DPNU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_LPH_GRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Cap_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_LPH_TAN"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "A3\\Characters_F\\common\\capb_headphones.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_Cap_Peltor",
+      "FirstConfigClassName": "AUSPAT_Cap_Peltor_BLK",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CapComms_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_Peltor_AMCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CapComms_BLK.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_Peltor_BLK"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CapComms_BRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_Peltor_BRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CapComms_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_Peltor_DPCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CapComms_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_Peltor_DPDU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CapComms_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_Peltor_DPNU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CapComms_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_Peltor_GRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CapComms_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Cap_Peltor_TAN"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "A3\\Characters_F\\Common\\booniehat.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_Boonie",
+      "FirstConfigClassName": "AUSPAT_Boonie_BLK",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_AMCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_BLK.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_BLK"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_BRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_BRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_DPCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_DPDU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_DPNU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_GRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_TAN"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "A3\\Characters_F_EPB\\Common\\booniehat_hs.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_Boonie_Comms",
+      "FirstConfigClassName": "AUSPAT_Boonie_Comms_BLK",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_Comms_AMCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_BLK.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_Comms_BLK"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_BRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_Comms_BRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_Comms_DPCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_Comms_DPDU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_Comms_DPNU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_Comms_GRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\Boonie_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_Boonie_Comms_TAN"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    },
+    {
+      "P3dModel": "A3\\Characters_F\\Common\\headgear_placeholder.p3d",
+      "ClassRoot": "CfgWeapons",
+      "Name": "AUSPAT_RH",
+      "FirstConfigClassName": "AUSPAT_RH_GRN",
+      "Action": null,
+      "ModelName": null,
+      "HiddenSelections": {
+        "camo": {
+          "Action": null,
+          "OptionName": null,
+          "OptionValue": null,
+          "Priority": null,
+          "Values": [
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CH_AMCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_RH_AMCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CH_BLK.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_RH_BLK"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CH_BRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_RH_BRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CH_DPCU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_RH_DPCU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CH_DPDU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_RH_DPDU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CH_DPNU.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_RH_DPNU"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CH_GRN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_RH_GRN"
+            },
+            {
+              "Value": "AUSPAT\\Data\\Headwear\\CH_TAN.paa",
+              "ValueName": null,
+              "FirstConfigClassName": "AUSPAT_RH_TAN"
+            }
+          ]
+        }
+      },
+      "GapOptions": {},
+      "ExplicitOptions": {}
+    }
+  ]
+}
